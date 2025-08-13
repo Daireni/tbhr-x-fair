@@ -107,7 +107,7 @@
     position: absolute;   
     z-index: 1;
     width: 50vw;
-    top: 5%;
+    top: 6%;
     left: 55.1%;
     transform: translateX(-50%);
     pointer-events: none;
@@ -634,4 +634,5 @@
     #mobile-blocker {
         display: flex;
     }
+
 }
